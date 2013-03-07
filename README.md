@@ -27,4 +27,4 @@ reference, these text blocks will be grabbed:
     Steve dialed in this TonePrint paticularly for big clean sounds. On these
     sounds the Reverb is an integrated part of the sound, full and lush.
 
-
+The relative URL for the file is appended as the third field.
