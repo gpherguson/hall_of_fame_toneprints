@@ -15,3 +15,16 @@ name. For instance, this URL's filename will be split on /[_-]/:
 Which results in an artist name of "stevemorse" and an image file of
 "beautifulreverb.dmg", which will be stored in the "tone_prints/stevemorse"
 directory as "beautifulreverb.dmg".
+
+A file called "Toneprint_notes.txt" will also be created containing
+tab-delimited rows consisting of text from several places in the download
+pages. Using
+http://www.tcelectronic.com/hall-of-fame-steve-morse-beautiful-reverb/ as a
+reference, these text blocks will be grabbed:
+
+    Beautiful Reverb TonePrint by Steve Morse
+
+    Steve dialed in this TonePrint paticularly for big clean sounds. On these
+    sounds the Reverb is an integrated part of the sound, full and lush.
+
+
